@@ -1,1 +1,1 @@
-# 20180228_Examen01_21168
+El banco tiene todos los datos que debe recibir, desde el main se puede definir el formato y protocolo. Al llamarse desde el main el metodo del banco para hacer la transferencia se le dan los datos y se almacenan en una lista, dentro de este metodo se le llama a la clase Tansfer la cual tiene un metodo para hacer la transofrmacion, esta recibe el dato del protocolo, el banco de destino y la lista de los datos para transformarlos a lo que el banco necesite.
